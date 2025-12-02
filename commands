@@ -7,4 +7,5 @@ git branch -m rename-branch
 git switch new-branch
 git branch new-branch
 
-git fetch
+git fetch origin
+git pull origin branch-name
